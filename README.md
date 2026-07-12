@@ -73,4 +73,4 @@ pip install -r requirements.txt
 
 ## 👤 Author
 
-**Malar**
+**Muthu Malar**
